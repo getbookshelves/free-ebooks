@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="app-icon.png" alt="BookShelves" width="96" height="96">
+  <img src="app-icon.png" alt="BookShelves eBook Reader" width="96" height="96">
 </p>
 
 # Free Ebooks
 
-> Maintained by [BookShelves](https://getbookshelves.app) — a free ebook reader app for macOS and iOS.
+> Maintained by [BookShelves eBook Reader](https://getbookshelves.app) — a free EPUB reader for macOS and iOS.
 
 A curated list of places to find free, legal ebooks — public domain classics, open access academic works, and DRM-free downloads.
 
@@ -48,7 +48,7 @@ Any EPUB reader works. Here are some good ones:
 
 | App | Platform | Description |
 |-----|----------|-------------|
-| [BookShelves](https://getbookshelves.app) | macOS, iOS | Free ebook reader app with built-in Standard Ebooks catalog. Browse and download directly from the app. |
+| [BookShelves](https://getbookshelves.app) | macOS, iOS | Free EPUB reader with built-in Standard Ebooks catalog. Browse and download directly from the app. |
 | [Calibre](https://calibre-ebook.com/) | Windows, macOS, Linux | The Swiss Army knife of ebook management. Convert formats, edit metadata, organize your library. |
 | [KOReader](https://koreader.rocks/) | Linux, Android, E-ink | Open source reader optimized for e-ink devices. Highly customizable. |
 | [Apple Books](https://www.apple.com/apple-books/) | macOS, iOS | Built into every Apple device. Handles EPUB well. |
