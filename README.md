@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="app-icon.png" alt="BookShelves" width="96" height="96">
+</p>
+
 # Free Ebooks
+
+> Maintained by [BookShelves](https://getbookshelves.app) — a free ebook reader app for macOS and iOS.
 
 A curated list of places to find free, legal ebooks — public domain classics, open access academic works, and DRM-free downloads.
 
