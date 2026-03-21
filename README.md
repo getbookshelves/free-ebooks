@@ -68,6 +68,12 @@ Key advantages:
 
 [OPDS](https://opds.io/) (Open Publication Distribution System) is like RSS for ebooks. It lets ebook reader apps browse and download from remote catalogs. Many of the sources above offer OPDS feeds, so you can discover and download books directly from your reader app.
 
+## Further Reading
+
+- [The Best Free eBook Sources Nobody Talks About](https://medium.com/@theopenshelf/the-best-free-ebook-sources-nobody-talks-about-6a3b463b2352) — a deeper look at the sources listed here and how to get the most out of them
+- [The Best Free Horror Classics for Your E-Reader](https://openshelfbooks.substack.com/p/the-best-free-horror-classics-for) — 8 public domain horror books worth reading, all free
+- [EPUB vs Kindle Format: What You're Actually Missing](https://medium.com/@theopenshelf/epub-vs-kindle-format-what-youre-actually-missing-2e9c3d3b3302) — why open formats matter
+
 ## License
 
 This list is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — do whatever you want with it.
